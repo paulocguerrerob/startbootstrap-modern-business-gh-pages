@@ -11315,3 +11315,10 @@ html {
 .navbar-brand img {
   max-width: 320px;
 }
+
+@media (max-width: 767px) {
+
+    .text-xs-center {
+    text-align: center;
+  } 
+}
